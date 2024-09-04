@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Evan Varozza
 - 👀 I’m interested in Website Development
-- 🌱 I’m currently learning how to write in HTML and JavaScript
+- 🌱 I’m currently learning React and Nuxt
 - 💞️ I’m looking to collaborate on many different pieces of work
-- 📫 How to reach me ...
+- 📫 How to reach me: VarozzaEJ@gmail.com
 
 
 <!---
